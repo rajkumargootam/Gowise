@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.padding{
+  padding: 1rem;
+}
+
+ a {
+  color: #FFF;
+}
+
+.caption {
+   font-size: 20px;
+   color: #FFF;
+}
